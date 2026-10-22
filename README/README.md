@@ -82,7 +82,7 @@ Questions include:
 
 ## SQL Analysis
 
-&nbsp;&nbsp;&nbsp;&nbsp;SQL was used to create the project database and Adidas sales table, perform data-quality checks, and analyze overall sales, product performance, regional performance, payment methods, and monthly sales trends.
+SQL was used to create the project database and Adidas sales table, perform data-quality checks, and analyze overall sales, product performance, regional performance, payment methods, and monthly sales trends.
 
 **1. Database and table creation**<br>
 
