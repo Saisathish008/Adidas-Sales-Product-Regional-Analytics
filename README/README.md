@@ -1,15 +1,5 @@
 #  Adidas Sales, Product & Regional Performance Analytics
 
-A Power BI analytics project focused on exploring Adidas sales
-performance, product categories, regional performance, customer
-segments, returns, and promotions.
-
-> **Project documentation note:** The supplied files include raw and
-> cleaned CSV datasets and a Power BI report (`Adidas_Project.pbix`). No
-> SQL scripts, MySQL database export, or dashboard screenshot files were
-> supplied. Therefore, this README documents the confirmed dataset and
-> Power BI report without claiming that SQL processing or a MySQL
-> database has already been implemented.
 
 ## Project Information
 
