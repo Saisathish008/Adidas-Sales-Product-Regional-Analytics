@@ -49,9 +49,9 @@ Questions include:
 
 ## Project Overview
 
-&nbsp;&nbsp;&nbsp;&nbsp;This project explores Adidas sales data through a multi-page Power BI report. The report is organized into five pages: **Sales Overview**, **Product Performance**, **Regional Analysis**, **Customer Insights**, and **Returns & Promotions**.
+This project explores Adidas sales data through a multi-page Power BI report. The report is organized into five pages: **Sales Overview**, **Product Performance**, **Regional Analysis**, **Customer Insights**, and **Returns & Promotions**.
 
-&nbsp;&nbsp;&nbsp;&nbsp;The goal is to make sales and customer patterns easier to explore through a consistent report layout. SQL can be used to prepare and analyze the source data before it is loaded into Power BI. Power BI can then support interactive exploration through report visuals, measures, and filters. The analysis may help identify areas for further investigation, but any business conclusion should be based on verified results from the dataset.
+The goal is to make sales and customer patterns easier to explore through a consistent report layout. SQL can be used to prepare and analyze the source data before it is loaded into Power BI. Power BI can then support interactive exploration through report visuals, measures, and filters. The analysis may help identify areas for further investigation, but any business conclusion should be based on verified results from the dataset.
 
 ## Project Objectives
 
@@ -304,23 +304,21 @@ Key insights should be documented only after validating the results using SQL qu
 ## Power BI Dashboard Screenshots
 
 ### 1. Sales Overview
-![Sales Overview Dashboard](Visualizations/sales_overview.png)
+<img width="1317" height="740" alt="1  Sales Overview" src="https://github.com/user-attachments/assets/ad59b401-eb95-4b96-8112-559c937ed498" />
 
 ### 2. Product Performance
-![Product Performance Dashboard](Visualizations/product_performance.png)
+<img width="1317" height="741" alt="2  Product Performance" src="https://github.com/user-attachments/assets/44057429-d505-471e-85f4-70ed3b0cc9c6" />
 
 ### 3. Regional Analysis
-![Regional Analysis Dashboard](Visualizations/regional_analysis.png)
+<img width="1317" height="740" alt="3  Regional Analysis" src="https://github.com/user-attachments/assets/1905cc41-180d-4f71-b7ba-d293f88cabf6" />
 
 ### 4. Customer Insights
-![Customer Insights Dashboard](Visualizations/customer_insights.png)
+<img width="1318" height="741" alt="4  Customer Insights" src="https://github.com/user-attachments/assets/653255c4-da21-4685-955e-b47c02da2d06" />
 
 ### 5. Returns & Promotions
-![Returns and Promotions Dashboard](Visualizations/returns_promotions.png)
+<img width="1317" height="739" alt="5  Returns   Promotions" src="https://github.com/user-attachments/assets/42209acf-e9e6-4b67-8c5c-a07666fa3a01" />
 
 ## Project Folder Structure
-
-Suggested structure — keep only files and folders that actually exist in your GitHub repository:
 
 ```text
 Adidas-Sales-Product-Regional-Analytics/
