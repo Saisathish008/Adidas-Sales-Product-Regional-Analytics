@@ -1,4 +1,4 @@
-# Adidas Sales, Product & Regional Performance Analytics
+  Adidas Sales, Product & Regional Performance Analytics
 
 A Power BI analytics project focused on exploring Adidas sales
 performance, product categories, regional performance, customer
