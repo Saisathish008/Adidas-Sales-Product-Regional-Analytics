@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Retail / Sportswear - Adidas
 
 **Problem Statement:** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Retail sales data can be difficult to interpret across product categories, sales regions, customer segments, and returns or promotions. This project organizes the available data into an analysis workflow to help explore performance patterns and support data-informed business decisions.
+Retail sales data can be difficult to interpret across product categories, sales regions, customer segments, and returns or promotions. This project organizes the available data into an analysis workflow to help explore performance patterns and support data-informed business decisions.
 
 **Project Objectives:**
 - Analyze sales performance across product categories and regions.
@@ -19,7 +19,7 @@
 - Present key performance indicators and comparisons in an interactive Power BI report.<br>
 
 **Proposed Solution / Business Questions:** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Use SQL for data preparation and querying where applicable, then use Power BI to model and visualize the data.
+Use SQL for data preparation and querying where applicable, then use Power BI to model and visualize the data.
 
 Questions include: 
 - Which products perform best?  
