@@ -6,7 +6,7 @@
 -   **Industry:**
         Sportswear / Retail / E-commerce analytics
 -   **Problem Statement:**
-        Retail teams need a consistent way to examine sales, profit, product performance, regional contribution, customer segments, returns, and promotions. Without a consolidated analytical view, it can be harder to compare performance across these dimensions and identify areas that may need further investigation.
+            Retail teams need a consistent way to examine sales, profit, product performance, regional contribution, customer segments, returns, and promotions. Without a consolidated analytical view, it can be harder to compare performance across these dimensions and identify areas that may need further investigation.
 -   **Project Objectives:**
     -   Summarize sales revenue, profit, and units sold.
     -   Compare performance across geographic zones, countries, and
