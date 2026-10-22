@@ -1,6 +1,4 @@
 #  Adidas Sales, Product & Regional Performance Analytics
-
-
 ## Project Information
 
 -   **Project Title:** Adidas -- Sales, Product & Regional Performance
