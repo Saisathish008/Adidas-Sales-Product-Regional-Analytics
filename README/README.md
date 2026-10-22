@@ -1,70 +1,56 @@
 #  Adidas Sales, Product & Regional Performance Analytics
 ## Project Information
 
--   **Project Title:**
-  Adidas - Sales, Product & Regional Performance Analytics
+**Project Title:**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adidas - Sales, Product & Regional Performance Analytics
 
--   **Industry:**
-  Sportswear / Retail / E-commerce analytics
+**Industry:**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sportswear / Retail / E-commerce analytics
 
--   **Problem Statement:**
-  Retail teams need a consistent way to examine sales, profit, product performance, regional contribution, customer segments, returns, and promotions. Without a consolidated analytical view, it can be harder to compare performance across these dimensions and identify areas that may need further investigation.
--   **Project Objectives:**
-    -   Summarize sales revenue, profit, and units sold.
-    -   Compare performance across geographic zones, countries, and
-        cities.
-    -   Evaluate product categories and product types.
-    -   Explore customer demographics, membership levels, ratings, and
-        payment methods.
-    -   Examine return units, return amounts, and recorded return
-        reasons.
-    -   Explore discount and promotion patterns alongside sales and
-        profitability.
-    -   Present the analysis in an interactive Power BI report.
--   **Proposed Solution / Business Questions:** Use the supplied sales
-    dataset and Power BI report to explore the following:
-    -   Which zones contribute the most revenue?
-    -   Which product types generate the highest sales?
-    -   How do customer groups differ by age category and gender?
-    -   Which return reasons appear most frequently?
-    -   How do discounts and promotions relate to sales and profit?
-    -   How do sales and other KPIs change over time?
--   **Dataset Name:** Adidas -- Sales, Product & Regional Performance
-    Analytics
--   **Dataset Source:** Files supplied with this project. An
-    external/public source URL was not provided.
--   **Database Name:** Not provided / not confirmed
--   **Table Names:** The CSV data is a single flat dataset. A MySQL
-    table name was not provided or verified.
+**Problem Statement:**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retail teams need a consistent way to examine sales, profit, product performance, regional contribution, customer segments, returns, and promotions. Without a consolidated analytical view, it can be harder to compare performance across these dimensions and identify areas that may need further investigation.<br>
+
+**Project Objectives:**<br>
+-   Summarize sales revenue, profit, and units sold.  
+-   Compare performance across geographic zones, countries, and cities.  
+-   Evaluate product categories and product types.  
+-   Explore customer demographics, membership levels, ratings, and payment methods.  
+-   Examine return units, return amounts, and recorded return reasons.  
+-   Explore discount and promotion patterns alongside sales and profitability.  
+-   Present the analysis in an interactive Power BI report.<br>
+    
+**Proposed Solution / Business Questions:**<br>
+Use the supplied sales dataset and Power BI report to explore the following:
+-   Which zones contribute the most revenue?  
+-   Which product types generate the highest sales?  
+-   How do customer groups differ by age category and gender?  
+-   Which return reasons appear most frequently?  
+-   How do discounts and promotions relate to sales and profit?  
+-   How do sales and other KPIs change over time?<br>
+    
+**Dataset Name:**<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adidas(Cleaned) - Sales, Product & Regional Performance Analytics
+
+**Dataset Source:**<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adidas(Raw) - Sales, Product & Regional Performance Analytics
+
+**Database Name:**<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;new_project
+
+**Table Names:**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;adidas
 
 ## Tools & Technologies
-
-Confirmed from the supplied project files:
-
--   **Power BI Desktop** --- report file supplied as
-    `Adidas_Project.pbix`
--   **CSV** --- raw and cleaned dataset files
-
-SQL and MySQL are part of the intended project scope only if you have
-used them separately. No SQL scripts or database export were included
-with the supplied files, so they are not listed as confirmed
-implementation tools here. Power Query and DAX may be used within the
-Power BI report, but their specific transformations and measures should
-be documented after checking the report in Power BI Desktop.
+-   **MySQL / SQL**
+-   **Power BI Desktop**
+-   **Power Query**
+-   **DAX**
+-   **CSV**   
 
 ## Project Overview
 
-This project explores a retail sales dataset containing order, customer,
-product, geographic, pricing, profitability, return, payment, rating,
-membership, and promotion fields. The supplied Power BI report contains
-five pages: **Sales Overview**, **Product Performance**, **Regional
-Analysis**, **Customer Insights**, and **Returns & Promotions**.
-
-The analysis is intended to help users compare business performance
-across these dimensions and investigate patterns that may inform further
-business decisions. The report provides an analytical view; any proposed
-action should be validated against business context and data quality
-before implementation.
+This project explores a retail sales dataset containing order, customer, product, geographic, pricing, profitability, return, payment, rating, membership, and promotion fields. The supplied Power BI report contains five pages: **Sales Overview**, **Product Performance**, **Regional Analysis**, **Customer Insights**, and **Returns & Promotions**.  
+The analysis is intended to help users compare business performance across these dimensions and investigate patterns that may inform further business decisions. The report provides an analytical view; any proposed action should be validated against business context and data quality before implementation.
 
 ## Project Objectives
 
