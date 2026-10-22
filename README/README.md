@@ -1,8 +1,8 @@
 #  Adidas Sales, Product & Regional Performance Analytics
 ## Project Information
 
--   **Project Title:** Adidas -- Sales, Product & Regional Performance
-    Analytics
+-   **Project Title:**
+-   Adidas - Sales, Product & Regional Performance Analytics
 -   **Industry:** Sportswear / Retail / E-commerce analytics
 -   **Problem Statement:** Retail teams need a consistent way to examine
     sales, profit, product performance, regional contribution, customer
