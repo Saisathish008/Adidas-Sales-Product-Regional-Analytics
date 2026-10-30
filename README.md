@@ -229,10 +229,10 @@ Examines product returns and promotional activity to support return monitoring a
 **Potential visualizations:** Return KPI cards, return-reason charts, promotional-code comparisons, and return trend charts.  
 
 ### Power Query
-&nbsp;&nbsp;&nbsp;&nbsp;Power Query was used for data preparation and transformation before dashboard development.  
+Power Query was used for data preparation and transformation before dashboard development.  
 
 ### DAX
-&nbsp;&nbsp;&nbsp;&nbsp;DAX measures were used to create KPI and analytical metrics such as:  
+DAX measures were used to create KPI and analytical metrics such as:  
 
 - Total Sales Revenue
 - Total Profit
