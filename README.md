@@ -322,8 +322,7 @@ Key insights should be documented only after validating the results using SQL qu
 
 ```text
 Adidas-Sales-Product-Regional-Analytics/
-├── README/
-│   └──README.md
+├── README.md
 ├── Dataset/
 │   ├── Adidas(Raw) - Sales, Product & Regional Performance Analytics.csv
 │   └── Adidas(Cleaned) - Sales, Product & Regional Performance Analytics.csv
@@ -337,7 +336,7 @@ Adidas-Sales-Product-Regional-Analytics/
 │   ├── 3. regional_analysis.png
 │   ├── 4. customer_insights.png
 │   └── 5. returns_promotions.png
-└──Documentation
+└──Documentation/
     └── Adidas - Sales, Product & Regional Performance Analytics.pdf
 ```
 
